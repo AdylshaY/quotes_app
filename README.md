@@ -12,18 +12,20 @@ An application developed to grasp the basics of Flutter.
 
 ## Images From App
 
-### Intro Screen
+<div style="display:flex; gap:8px;">
+  <span>
+    <img src="github_images/intro_screen.png" alt="intro_screen" width="300"/>
+  </span>
 
-<img src="github_images/intro_screen.png" alt="intro_screen" width="200"/>
+  <span>
+    <img src="github_images/quotes_screen.png" alt="quotes_screen" width="300"/>
+  </span>
 
-### Quotes Screen
+  <span>  
+    <img src="github_images/settings_screen.png" alt="settings_screen" width="300"/>  
+  </span>
 
-<img src="github_images/quotes_screen.png" alt="quotes_screen" width="200"/>
-
-### Settings Screen
-
-<img src="github_images/settings_screen.png" alt="settings_screen" width="200"/>
-
-### Favorites Screen
-
-<img src="github_images/favorites_screen.png" alt="favorites_screen" width="200"/>
+  <span>
+    <img src="github_images/favorites_screen.png" alt="favorites_screen" width="300"/>
+  </span>
+</div>
